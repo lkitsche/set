@@ -1,6 +1,7 @@
 # images (because of copyright)
 static/*
 !static/put_cards_here.txt
+!static/cards.json
 
 # Logs
 logs
